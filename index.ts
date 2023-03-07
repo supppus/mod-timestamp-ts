@@ -50,6 +50,6 @@ class Algorithm {
   };
 }
 
-let hash: Algorithm = new Algorithm("victor");
+let hash: Algorithm = new Algorithm("34834934024902");
 
 console.log(hash.Work());
